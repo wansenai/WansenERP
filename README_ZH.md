@@ -83,7 +83,7 @@ docker run --name eairp-web -d -p 3000:80 -e API_BASE_URL=http://localhost:8080/
 根据您的选择。
 
 ## 社区
-<img src="images/wechat-group-20250205.png" alt="WeChat Group" width="300" />
+<img src="images/wechat-group-20250217.jpg" alt="WeChat Group" width="300" />
 
 ## 贡献
 我们欢迎每一位贡献者，无论是在代码还是文档方面。
