@@ -32,7 +32,7 @@ body:
       value: |
         ### Environment
 
-        Please specify your environment. If your environment does not match the alternatives, you need to upgrade your environment before submitting the issue as it may have already been fixed. For additional information about the releases, see [Release Process](https://github.com/eairps/eairp/wiki/Release-Process).
+        Please specify your environment. If your environment does not match the alternatives, you need to upgrade your environment before submitting the issue as it may have already been fixed. For additional information about the releases, see [Release Process](https://github.com/eairps/eairp/wiki/Release%E2%80%90Process).
   - type: dropdown
     id: superset-version
     attributes:
