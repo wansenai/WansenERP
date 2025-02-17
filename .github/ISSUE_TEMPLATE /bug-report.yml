@@ -1,6 +1,6 @@
 name: Bug report
 description: Report a bug to improve eairp stability
-labels: ["bug"]
+labels: ["type: bug"]
 title: "[Bug]"
 body:
   - type: markdown
