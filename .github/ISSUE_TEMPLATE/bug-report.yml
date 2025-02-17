@@ -26,13 +26,13 @@ body:
     id: screenshots-recordings
     attributes:
       label: Expect result
-      description: What is your expected outcome for this bug? 
+      description: What would you expect to see reasult under normal circumstances?
   - type: markdown
     attributes:
       value: |
         ### Environment
 
-        Please specify your environment. If your environment does not match the alternatives, you need to upgrade your environment before submitting the issue as it may have already been fixed. For additional information about the releases, see [Release Process](https://github.com/apache/superset/wiki/Release-Process).
+        Please specify your environment. If your environment does not match the alternatives, you need to upgrade your environment before submitting the issue as it may have already been fixed. For additional information about the releases, see [Release Process](https://github.com/eairps/eairp/wiki/Release-Process).
   - type: dropdown
     id: superset-version
     attributes:
