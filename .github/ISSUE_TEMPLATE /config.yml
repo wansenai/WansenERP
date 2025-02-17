@@ -1,9 +1,0 @@
----
-blank_issues_enabled: true
-contact_links:
-  - name: Feature Request
-    url: https://github.com/eairps/eairp/discussions/new?category=ideas
-    about: Propose a feature request to the Superset community
-  - name: Q&A
-    url: https://github.com/eairps/eairp/discussions/new?category=q-a
-    about: Open a community Q&A on GitHub Discussions
