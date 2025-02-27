@@ -129,7 +129,7 @@ We will also bind mount a local directory for the Eairp log permanent directory 
 
 Note Make sure the directory you specify is specified with the fully-qualified path, not a relative path.
 
-Ensure this directory exists, and then run XWiki in a container by issuing one of the following command.
+Ensure this directory exists, and then run Eairp in a container by issuing one of the following command.
 
 ```console
 docker run --net=eairp-nw \
@@ -286,7 +286,7 @@ You should always check the [Release Notes](https://github.com/wansenai/eairp/re
 
 ## Configuration Options
 
-The first time you create a container out of the xwiki image, a shell script (`/usr/local/bin/docker-entrypoint.sh`) is executed in the container to setup some configuration. The following environment variables can be passed:
+The first time you create a container out of the eairp image, a shell script (`/usr/local/bin/docker-entrypoint.sh`) is executed in the container to setup some configuration. The following environment variables can be passed:
 
 -	`SPRING_DATASOURCE_URL`: Used to connect to the Mysql database JDBC address, Defaults port to 3306.
 -	`SPRING_DATASOURCE_USERNAME`: Username for connecting to the MySQL database
