@@ -34,32 +34,14 @@
 它是完全免费的，如果这个项目对你有帮助，请点击Star。非常感谢。
 
 ## Project
-[Enginsh](https://github.com/wansenai/eairp/blob/master/README.md) / [简体中文](https://github.com/wansenai/eairp/blob/master/README_ZH.md)
+[Enginsh](https://github.com/eairps/eairp/blob/master/README.md) / [简体中文](https://github.com/eairps/eairp/blob/master/README_ZH.md)
 
 ## Online preview
-- [eairp preview / 在线预览](https://erp.wansen.cloud/)
-- 测试账号: wansen
+- 测试账号: admin
 - 测试密码: 123456
 
-一些功能模块正在开发和改进中，请参阅我们的待办事项列表[开发清单](https://github.com/wansenai/eairp/issues/124)。
-
 ## 快速开始
-```shell
-docker pull wansenai/eairp:2.1.1
-
-docker pull wansenai/eairp-web:2.1.1
-```
-## 运行服务
-您可以自定义和修改端口8080，请确保您的前端监控的服务端口一致。
-如果要部署到您的域名，则需要将本地主机修改为您的域名。
-
-我们将使用Docker Compose方法进行集成和部署，下一步它很快就会到来：）
-
-```shell
-docker run --name eairp -d -p 8080:8088 wansenai/eairp:2.1.1
-
-docker run --name eairp-web -d -p 3000:80 -e API_BASE_URL=http://localhost:8080/erp-api wansenai/eairp-web:2.1.1
-```
+我们提供了一种更全面的Docker部署方法，可以在[Docker](https://github.com/eairps/eairp/blob/master/docker/README_ZH.md)文件夹中找到
 
 ## 系统展示图
 ![](images/login-page-zh.png)
@@ -70,20 +52,16 @@ docker run --name eairp-web -d -p 3000:80 -e API_BASE_URL=http://localhost:8080/
 ![](images/add-menu-zh.png)
 ![](images/role-permission-zh.png)
 
-## 其他项目
-- [eairp-app](https://github.com/wansenai/eairp-app)  **注意:** (该应用程序当前需要等待web端完全开发后才能继续)
-
 ## License
 
 根据以下任一许可证之一，对本项目中的代码和文档进行许可：
 
-- Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or https://opensource.wansenai.com/)
-- MIT license ([LICENSE-MIT](LICENSE-MIT) or https://opensource.wansenai.com/mit)
-
+- Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE)
+- MIT license ([LICENSE-MIT](LICENSE-MIT)
 根据您的选择。
 
 ## 社区
-<img src="images/wechat-group-20250217.jpg" alt="WeChat Group" width="300" />
+<img src="images/wechat-group-20250227.jpg" alt="WeChat Group" width="300" />
 
 ## 贡献
 我们欢迎每一位贡献者，无论是在代码还是文档方面。
