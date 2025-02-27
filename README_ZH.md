@@ -56,8 +56,8 @@
 
 根据以下任一许可证之一，对本项目中的代码和文档进行许可：
 
-- Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE)
-- MIT license ([LICENSE-MIT](LICENSE-MIT)
+- Apache License, Version 2.0, [LICENSE-APACHE](LICENSE-APACHE)
+- MIT license [LICENSE-MIT](LICENSE-MIT)
 根据您的选择。
 
 ## 社区
