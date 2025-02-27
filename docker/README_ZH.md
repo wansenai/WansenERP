@@ -7,7 +7,7 @@ EAIRP包含物料采购、财务预算、库存管理、账单管理、用户角
 - [简介](#简介)
 - [镜像使用指南](#镜像使用指南)
     -	[拉取现有的镜像](#拉取现有的镜像)
-        -	[使用docker run](#使用docker run)
+        -	[使用docker run](#使用docker-run)
         -	[使用docker-compose](#使用docker-compose)
     -	[构建镜像](#构建镜像)
 - [升级Eairp](#升级Eairp)
@@ -43,7 +43,7 @@ EAIRP包含物料采购、财务预算、库存管理、账单管理、用户角
 -	MySQL数据库容器
 -	Redis数据库容器
 
-### 使用docker run
+### 使用docker-run
 
 首先创建一个专用的docker网络：
 
