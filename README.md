@@ -41,7 +41,7 @@ It's completely free, if this project is helpful to you, please click on Star. T
 - test password (测试密码): 123456
 
 ## Quick Start
-We provide a more comprehensive Docker deployment method, which can be found in [docker folder](https://github.com/wansenai/eairp-docker/)
+We provide a more comprehensive Docker deployment method, which can be found in [docker folder](https://github.com/eairps/eairp/blob/master/docker/README.md)
 
 ## System screenshot (only part)
 ![](images/login-page-en.png)
