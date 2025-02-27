@@ -37,14 +37,11 @@ It's completely free, if this project is helpful to you, please click on Star. T
 [Enginsh](https://github.com/wansenai/eairp/blob/master/README.md) / [简体中文](https://github.com/wansenai/eairp/blob/master/README_ZH.md)
 
 ## Online preview
-- If you are in Chinese Mainland, please visit [eairp.cn](https://eairp.cn/)
 - test account (测试账号): admin
 - test password (测试密码): 123456
 
-Some functional modules are being developed and improved, please refer to our [to-do list](https://github.com/wansenai/eairp/issues/118) / [开发清单](https://github.com/wansenai/eairp/issues/124). It's not easy to generate electricity with love.
-
 ## Quick Start
-We provide a more comprehensive Docker deployment method, which can be found in [eairp-docker repository](https://github.com/wansenai/eairp-docker/)
+We provide a more comprehensive Docker deployment method, which can be found in [docker folder](https://github.com/wansenai/eairp-docker/)
 
 ## System screenshot (only part)
 ![](images/login-page-en.png)
@@ -54,9 +51,6 @@ We provide a more comprehensive Docker deployment method, which can be found in 
 ![](images/product-add-two.png)
 ![](images/add-menu-zh.png)
 ![](images/role-permission-zh.png)
-
-## Other Repository
-- [eairp-app](https://github.com/wansenai/eairp-app)  **Note:** (The application currently needs to wait for the web side to be fully developed before proceeding)
 
 ## License
 
@@ -68,7 +62,7 @@ Licensed under either of
 at your option.
 
 ## Community
-<img src="images/wechat-group-20250217.jpg" alt="WeChat Group" width="300" />
+<img src="images/wechat-group-20250227.jpg" alt="WeChat Group" width="300" />
 
 ## Contribution
 We welcome every contributor, both in terms of code and documentation.
