@@ -56,8 +56,8 @@ We provide a more comprehensive Docker deployment method, which can be found in 
 
 Licensed under either of
 
-- Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or https://opensource.wansenai.com/)
-- MIT license ([LICENSE-MIT](LICENSE-MIT) or https://opensource.wansenai.com/mit)
+- Apache License, Version 2.0, [LICENSE-APACHE](LICENSE-APACHE)
+- MIT license [LICENSE-MIT](LICENSE-MIT)
 
 at your option.
 
