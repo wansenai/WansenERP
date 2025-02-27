@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#" target="_blank">Enterprise AI Resource Planning</a></h1>
+<h1 align="center"><a href="#" target="_blank">Enterprise Resource Plan</a></h1>
 <div align="center">
  <strong>
   Next generation artificial intelligent ERP system
